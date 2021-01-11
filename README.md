@@ -2,7 +2,6 @@
 
 Links e materiais de apoio
 
-| ------ | ------ |
 | Instalação Minikube: | [https://kubernetes.io/docs/tasks/tools/install-minikube/][PlDb] |
 | Instação Kubectl: | [https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-on-linux][PlGh] |
 | Deployment: | [https://kubernetes.io/docs/concepts/workloads/controllers/deployment/][PlGd] |
